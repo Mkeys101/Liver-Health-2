@@ -282,6 +282,9 @@ ggplot(data=agg_NAFLD_data[agg_NAFLD_data['Gender'] == 'Both Genders', ] , aes(x
 
 # Male 
 
+
+
+
 # Female 
 
 
