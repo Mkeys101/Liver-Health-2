@@ -260,8 +260,6 @@ agg_HCV_data$`Age.Adjusted.Mortality.Rate` = aam(agg_HCV_data)
 
 # Compute Confidence Intervals 
   
-
-
 # Plots 
 library(ggplot2)
 
